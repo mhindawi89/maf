@@ -1,0 +1,16 @@
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/conf/OpenApiConf.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/service/ProvidersServcieImpl.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/model/Hotel.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/api/HotelSearchApi.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/service/dto/AvailableHotelDTO.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/model/Room.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/DemoApplication.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/service/ProvidersServcie.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/model/HotelProviderEnum.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/service/HotelsSearchService.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/service/HotelsSearchServiceImpl.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/model/CrazyHotel.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/service/dto/CrazyHotelDTO.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/model/BestHotel.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/service/dto/BestHotelDTO.java
+/home/mhindawi/Downloads/demo/src/main/java/com/maf/demo/api/ProvidersApi.java

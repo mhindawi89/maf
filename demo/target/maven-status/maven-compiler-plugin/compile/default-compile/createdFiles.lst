@@ -1,0 +1,17 @@
+com/maf/demo/api/HotelSearchApi.class
+com/maf/demo/model/HotelProviderEnum.class
+com/maf/demo/service/dto/CrazyHotelDTO.class
+com/maf/demo/service/HotelsSearchService.class
+com/maf/demo/conf/OpenApiConf.class
+com/maf/demo/model/Hotel.class
+com/maf/demo/model/Room.class
+com/maf/demo/api/ProvidersApi.class
+com/maf/demo/model/CrazyHotel.class
+com/maf/demo/service/dto/BestHotelDTO.class
+com/maf/demo/service/ProvidersServcie.class
+com/maf/demo/service/HotelsSearchServiceImpl$1.class
+com/maf/demo/service/dto/AvailableHotelDTO.class
+com/maf/demo/DemoApplication.class
+com/maf/demo/model/BestHotel.class
+com/maf/demo/service/HotelsSearchServiceImpl.class
+com/maf/demo/service/ProvidersServcieImpl.class
